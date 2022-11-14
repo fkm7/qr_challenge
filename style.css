@@ -21,22 +21,23 @@ body {
     align-content: center;
     background-color: white;
     border-radius: 30px;
-    height: 480px;
+    height: 450px;
     max-width: 300px;
 }
 
 .card-title {
+    font-weight: 700;
     padding-left: 16px;
     padding-right: 16px;
     text-align: center;
-    font-size: 24px;
+    font-size: 20px;
 }
 
 .card-text {
-    font-family: 'Outfit', regular;
+    font-weight: 400;
     color: hsl(220, 15%, 55%);
     text-align: center;
-    font-size: 18px;
+    font-size: 15px;
 }
 
 .card-image img {
