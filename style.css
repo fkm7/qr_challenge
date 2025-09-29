@@ -24,15 +24,19 @@ body {
   background-color: hsl(0, 0%, 100%);
   border-radius: 20px;
   padding: 16px 16px 40px 16px;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.1)
+}
+
+#top-space {
+  height: 24px;
 }
 
 #textbox {
-  margin-top: 24px;
   padding-left: 16px;
   padding-right: 16px;
 }
 
-#space {
+#middle-space {
   height: 16px;
 }
 
@@ -44,7 +48,7 @@ img {
 
 #card-title {
   font-size: 22px;
-  font-weight: 700;
+  font-weight: bolder;
   text-align: center;
   color: hsl(218, 44%, 22%);
 }
