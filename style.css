@@ -48,6 +48,7 @@ img {
   font-size: 22px;
   font-family: "Outfit", sans-serif;
   font-weight: 700;
+  line-height: 140%;
   text-align: center;
   color: hsl(218, 44%, 22%);
 }
@@ -56,6 +57,7 @@ img {
   font-size: 15px;
   font-weight: 400;
   font-family: "Outfit", sans-serif;
+  line-height: 120%;
   text-align: center;
   color: hsl(216, 15%, 48%);
 }
